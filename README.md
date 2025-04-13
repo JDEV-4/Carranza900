@@ -28,17 +28,7 @@
 <!--------------------------------------------------------------------------------------------------------->
 
 
-```mermaid
-graph TD;
-    Front-End-->HTML5;
-    Front-End-->CSS3;
-    Front-End-->JavaScript;
-    Front-End-->Figma;
-    Front-End-->JSON;
-    Front-End-->Vue;
-    Front-End-->TypeScript;
-    Front-End-->JQuery;
-```
+
 <!--------------------------------------------------------------------------------------------------------->
 <p align="center">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" title="HTML"> 
@@ -55,32 +45,6 @@ graph TD;
 <!--------------------------------------------------------------------------------------------------------->
 
 
- ```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-              [-86.09417, 11.97444],
-              [-86.09417, 11.97444],
-              [-86.09417, 11.97444],
-              [-86.09417, 11.97444],
-              [-86.09417, 11.97444]
-          ]
-        ]
-      }
-    }
-  ]
-}
- ```
 <!--------------------------------------------------------------------------------------------------------->
 <div align="center">
 <br><p align="centre"><b>Visitors Count 👽 </b></p>  
